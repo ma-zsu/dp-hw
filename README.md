@@ -14,4 +14,4 @@
 
 ## Running the Unit tests
 1. To run the tests, execute the test file:
-    python -m unittest test_dp_hw.py
+    `python -m unittest test_dp_hw.py`
